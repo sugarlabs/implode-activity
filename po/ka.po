@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-22 12:45+1000\n"
-"PO-Revision-Date: 2026-03-18 06:28+0000\n"
+"PO-Revision-Date: 2026-04-01 08:11+0000\n"
 "Last-Translator: NF <rkavt@smartprojects.ge>\n"
 "Language-Team: Georgian <http://weblate.sugarlabs.org/projects/"
 "sugar-activities/implode/ka/>\n"
@@ -85,7 +85,7 @@ msgstr ""
 
 #: implodeactivity.py:408
 msgid "Previous"
-msgstr ""
+msgstr "წინა"
 
 #: implodeactivity.py:409
 msgid "Again"
@@ -93,7 +93,7 @@ msgstr ""
 
 #: implodeactivity.py:411
 msgid "Next"
-msgstr ""
+msgstr "შემდეგი"
 
 #: implodeactivity.py:440
 msgid "Stuck?  You can still solve the puzzle."
